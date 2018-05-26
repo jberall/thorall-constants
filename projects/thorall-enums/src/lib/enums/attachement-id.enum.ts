@@ -1,0 +1,10 @@
+export enum AttachmentIdEnum {
+  QUOTE = 1,
+  APPLICATION = 2,
+  NEW_POLICY = 3,
+  POLICY_RENEWAL = 4,
+  CERTIFICATE = 101,
+  ENDORSEMENT = 102,
+  ABEYANCE = 103,
+  REVISED_DECLARATION = 200
+}
